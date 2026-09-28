@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577051260341",
+    "project_id": "g12343",
+    "storage_bucket": "g12343.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577051260341:android:2fae4afb0539a61139d5fc",
+        "android_client_info": {
+          "package_name": "com.example.globalindustriesattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm1pPggJ_CouSlawFi8gl3y808qChB8P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
